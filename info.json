@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "ArduinoSensorsAPI",
+            "version": "0.0.1",
+            "description": "This node.js and express project serves temperature, humidity, pressure, light, and voc data as a json endpoint",
+            "longDescription": "This project uses node.js, express, and node-influx to serve json data about the environment near my arduino sensor array.",
+            "githubLink": "https://github.com/michaelpeterswa/ArduinoSensorsAPI",
+            "date": "07.20.2019"
+        }
+    ]
+}
